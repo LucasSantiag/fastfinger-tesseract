@@ -12,7 +12,10 @@ Since I became a intern my desire to learn Python and Machine Learning got bigge
 # Results
 
 # Conclusion
-At first the repository name was **fastfinger-tensorflow** because I wanted use http://tensorflow.org/ to recognize text from the image Anti-Cheat, but is harder than I thought that would be.
+At first the repository name was **fastfinger-tensorflow** because I wanted use http://tensorflow.org/ to recognize text from the image Anti-Cheat, but is harder than I thought that would be. 
+If you wanna help me please contact me =)
 
 # To Future
-Make my first idea replacing the **Tesseract OCR** with **TensorFlow**
+Make this project not only a first step, but be deeper than my first idea
+  - [] Replace **Tesseract OCR** with **TensorFlow**
+  - [] Improve the Anti-Cheat Accuracy
