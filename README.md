@@ -10,7 +10,7 @@ Since I became a intern my desire to learn Python and Machine Learning got bigge
 * [OpenCV-Python](https://pypi.org/project/opencv-python/) -  Computer Vision Library
 
 # Results
-![Alt Text](https://media.giphy.com/media/gJuY0xtX5lmZpZclMK/source.gif)
+![](https://media.giphy.com/media/gJuY0xtX5lmZpZclMK/source.gif)
 
 # Conclusion
 At first the repository name was **fastfinger-tensorflow** because I wanted use http://tensorflow.org/ to recognize text from the image Anti-Cheat, but is harder than I thought that would be. 
