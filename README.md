@@ -1,5 +1,5 @@
 # FastFinger Tesseract
-www.10fastfinger.com is an entertainment web site to figure out how fast you can type. For my development skills improve I started create this BOT to play instead of a humam and cheat their Anti-Cheat.
+www.10fastfingers.com is an entertainment web site to figure out how fast you can type. For my development skills improve I started create this BOT to play instead of a humam and cheat their Anti-Cheat.
 
 # Why
 Since I became a intern my desire to learn Python and Machine Learning got bigger, so start this random project to take the first steps learning was my main idea. 
