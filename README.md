@@ -17,5 +17,5 @@ If you wanna help me please contact me =)
 
 # To Future
 Make this project not only a first step, but be deeper than my first idea
-  - [] Replace **Tesseract OCR** with **TensorFlow**
-  - [] Improve the Anti-Cheat Accuracy
+  - [ ] Replace **Tesseract OCR** with **TensorFlow**
+  - [ ] Improve the Anti-Cheat Accuracy
