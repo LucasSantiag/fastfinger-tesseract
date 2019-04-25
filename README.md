@@ -12,6 +12,9 @@ Since I became a intern my desire to learn Python and Machine Learning got bigge
 # Results
 ![](https://media.giphy.com/media/gJuY0xtX5lmZpZclMK/giphy.gif)
 
+![](https://ibb.co/cbxk4xP)
+![](https://ibb.co/nfxXTt4)
+
 # Conclusion
 At first the repository name was **fastfinger-tensorflow** because I wanted use http://tensorflow.org/ to recognize text from the image Anti-Cheat, but is harder than I thought that would be. 
 If you wanna help me please contact me =)
